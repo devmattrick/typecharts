@@ -11,14 +11,22 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@types/enzyme": "^3.10.3",
+    "@types/jsdom": "^12.2.4",
+    "@types/node": "^12.7.2",
     "@typescript-eslint/eslint-plugin": "^2.0.0",
     "@typescript-eslint/parser": "^2.0.0",
+    "ava": "^2.3.0",
+    "enzyme": "^3.10.0",
     "eslint": "^6.2.0",
     "eslint-config-prettier": "^6.1.0",
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.14.3",
+    "jsdom": "^15.1.1",
+    "jsdom-global": "^3.0.2",
     "lerna": "^3.16.4",
     "prettier": "^1.18.2",
+    "ts-node": "^8.3.0",
     "typescript": "^3.5.3"
   }
 }

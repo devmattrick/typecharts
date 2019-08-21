@@ -2,7 +2,7 @@
  * This class simplifies the creation of SVG Path instructions.
  */
 export class Path {
-  private instructions: string[];
+  private instructions: string[] = [];
 
   /* eslint-disable-next-line @typescript-eslint/no-empty-function */
   private constructor() {}
