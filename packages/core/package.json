@@ -1,0 +1,13 @@
+{
+  "name": "@typecharts/core",
+  "version": "1.0.0",
+  "description": "Shared functionality used by Typecharts.",
+  "main": "dist/index.js",
+  "types": "dist/",
+  "repository": "https://github.com/devmattrick/typecharts.git",
+  "author": "Matthew McCune <contact@matthew.cx>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  }
+}

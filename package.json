@@ -1,0 +1,24 @@
+{
+  "name": "@typecharts/typecharts-monorepo",
+  "version": "1.0.0",
+  "description": "Modular, framework agnostic charting library.",
+  "main": "index.js",
+  "repository": "https://github.com/devmattrick/typecharts.git",
+  "private": true,
+  "author": "Matthew McCune <contact@matthew.cx>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "eslint": "^6.2.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "lerna": "^3.16.4",
+    "prettier": "^1.18.2",
+    "typescript": "^3.5.3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@typecharts/preact",
+  "version": "1.0.0",
+  "description": "Preact library for Typecharts.",
+  "main": "index.js",
+  "repository": "https://github.com/devmattrick/typecharts.git",
+  "author": "Matthew McCune <contact@matthew.cx>",
+  "license": "MIT",
+  "dependencies": {
+    "@typecharts/core": "^1.0.0",
+    "preact": "^8.5.2"
+  }
+}
